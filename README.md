@@ -14,3 +14,5 @@ Caster wheel</br>
 
 
 <h4>circuit diagram</h4>
+
+<img src="https://github.com/KAbhijeet2105/Line-Following-Robot/blob/master/Simple_Line_Following_bb.png" height="840" width="1680"></img>
