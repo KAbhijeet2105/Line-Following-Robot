@@ -5,9 +5,9 @@
 #define RightSensor 3        //Right IR Sensor
 #define CenterSensor 4       // Center IR Sensor
 #define LeftForward 5
-#define LeftBackward 10
-#define RightForward 11
-#define RightBackward 6
+#define LeftBackward 6
+#define RightForward 7
+#define RightBackward 8
 
 int var_speed = 180;         // Motor speed
 void setup()
